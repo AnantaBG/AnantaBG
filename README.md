@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **FrontEnd Web Devolopment**
 
 - 📫 How to reach me **anantabanikofficial@gmail.com**
 
