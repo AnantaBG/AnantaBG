@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananta Banik</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![Header](./header.png)
 
 - 🌱 I’m currently learning **next.js**
 
